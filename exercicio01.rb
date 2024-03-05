@@ -1,3 +1,3 @@
 3.times do
-    print 'Welcome '
+    print 'Hello World '
   end
